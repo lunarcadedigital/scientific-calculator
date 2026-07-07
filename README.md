@@ -10,10 +10,13 @@
 
 <p align="center">
   [![Android](https://img.shields.io/badge/Android-10%2B-green?logo=android)](https://developer.android.com/about/versions/10)
+  [![API](https://img.shields.io/badge/API-29%2B-brightgreen)](https://developer.android.com/studio/releases/platforms#10)
   [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.20-blue?logo=kotlin)](https://kotlinlang.org)
+  [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2024.01-4285F4?logo=google&logoColor=white)](https://developer.android.com/jetpack/compose)
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](#)
   [![Tests](https://img.shields.io/badge/Tests-82%20Passed-brightgreen)](#)
+  [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](#)
 </p>
 
 ---
