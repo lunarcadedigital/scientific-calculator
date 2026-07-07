@@ -27,17 +27,13 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Tests-82%20Passed-brightgreen" alt="Tests 82 Passed">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version 1.0.0">
-  </a>
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#testing">Testing</a> •
+  <a href="#key-features">Key Features</a> &bull;
+  <a href="#how-to-use">How To Use</a> &bull;
+  <a href="#download">Download</a> &bull;
+  <a href="#tech-stack">Tech Stack</a> &bull;
   <a href="#license">License</a>
 </p>
 
@@ -52,7 +48,6 @@
 * **100% Offline** — No internet required, no tracking
 * **Fully Tested** — 82 unit tests passed
 * **Material Design 3** — Modern and beautiful UI
-* **LSPosed Integration** — GPS precision module support
 
 ## How To Use
 
@@ -77,7 +72,7 @@ $ ./gradlew installDebug
 
 ## Download
 
-You can <a href="https://github.com/lunarcadedigital/scientific-calculator/releases/download/v1.0.0/ScientificCalculator_v1.0.0.apk">download</a> the latest installable version of Scientific Calculator for Android.
+You can [download](https://github.com/lunarcadedigital/scientific-calculator/releases/download/v1.0.0/ScientificCalculator_v1.0.0.apk) the latest installable version of Scientific Calculator for Android.
 
 ## Tech Stack
 
@@ -89,32 +84,14 @@ You can <a href="https://github.com/lunarcadedigital/scientific-calculator/relea
 | [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) | Preferences |
 | [JUnit](https://junit.org/junit5/) | Testing |
 
-## Testing
-
-```bash
-# Run all tests
-$ ./gradlew test
-```
-
-| Test Suite | Tests | Status |
-|------------|-------|--------|
-| Unit Tests | 82 | ✅ Passed |
-
 ## Changelog
 
 ### v1.0.0
-- ✅ Initial release
-- ✅ Basic & Scientific modes
-- ✅ Dark/Light/System theme
-- ✅ English & Bahasa Indonesia
-- ✅ 82 unit tests
-
-## Developer
-
-**Lunarcade Digital**
-
-- GitHub: [@lunarcadedigital](https://github.com/lunarcadedigital)
-- Email: lunarcadedigital@gmail.com
+- Initial release
+- Basic & Scientific modes
+- Dark/Light/System theme
+- English & Bahasa Indonesia
+- 82 unit tests
 
 ## License
 
