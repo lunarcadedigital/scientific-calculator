@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/lunarcadedigital/scientific-calculator"><img src="https://img.icons8.com/fluency/200/calculator.png" alt="Scientific Calculator" width="200"></a>
+  <a href="https://github.com/lunarcadedigital/scientific-calculator"><img src="https://raw.githubusercontent.com/lunarcadedigital/scientific-calculator/main/assets/calculator-logo.png" alt="Scientific Calculator" width="200"></a>
   <br>
   Scientific Calculator
   <br>
