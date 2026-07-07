@@ -1,103 +1,108 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/lunarcadedigital/scientific-calculator"><img src="https://raw.githubusercontent.com/lunarcadedigital/scientific-calculator/main/assets/calculator-logo.png" alt="Scientific Calculator" width="200"></a>
-  <br>
-  Scientific Calculator
-  <br>
-</h1>
+<p align="center">
+  <img src="assets/calculator-logo.png" alt="Scientific Calculator Logo" width="200"/>
+</p>
 
-<h4 align="center">A powerful, elegant, and bilingual scientific calculator for Android built with <a href="https://kotlinlang.org" target="_blank">Kotlin</a> and <a href="https://developer.android.com/jetpack/compose" target="_blank">Jetpack Compose</a>.</h4>
+<h1 align="center">🧮 Scientific Calculator</h1>
 
 <p align="center">
-  <a href="https://developer.android.com/about/versions/10">
-    <img src="https://img.shields.io/badge/Android-10%2B-green?logo=android" alt="Android 10+">
-  </a>
-  <a href="https://kotlinlang.org">
-    <img src="https://img.shields.io/badge/Kotlin-1.9.20-blue?logo=kotlin" alt="Kotlin 1.9.20">
-  </a>
-  <a href="https://developer.android.com/jetpack/compose">
-    <img src="https://img.shields.io/badge/Jetpack%20Compose-2024.01-4285F4?logo=google&logoColor=white" alt="Jetpack Compose">
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Build-Passing-brightgreen" alt="Build Passing">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Tests-82%20Passed-brightgreen" alt="Tests 82 Passed">
+  Kalkulator ilmiah canggih untuk Android — dual mode, dukungan dwibahasa, dan Material Design 3.
+</p>
+
+<p align="center">
+  <a href="https://github.com/lunarcadedigital/scientific-calculator/releases">
+    <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> &bull;
-  <a href="#how-to-use">How To Use</a> &bull;
-  <a href="#download">Download</a> &bull;
-  <a href="#tech-stack">Tech Stack</a> &bull;
-  <a href="#license">License</a>
+  <img src="https://img.shields.io/badge/Android-7.0%2B-green?logo=android" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin-1.9.20-blue?logo=kotlin" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-2024.01-4285F4?logo=google&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"/>
 </p>
 
 ---
 
-## Key Features
+## ⚠️ Disclaimer
 
-* **Dual Mode** — Basic & Scientific calculator in one app
-* **Dark Mode** — Dark/Light/System theme support
-* **Bilingual** — English & Bahasa Indonesia
-* **Copy Results** — One-tap copy to clipboard
-* **100% Offline** — No internet required, no tracking
-* **Fully Tested** — 82 unit tests passed
-* **Material Design 3** — Modern and beautiful UI
+> Aplikasi ini dibuat untuk tujuan **edukasi dan pembelajaran**. Cocok untuk pelajar, insinyur, dan siapa saja yang membutuhkan alat hitung canggih dan andal.
 
-## How To Use
+## ✨ Features
 
-To build and run this application, you'll need [Android Studio](https://developer.android.com/studio) or [Gradle](https://gradle.org) installed on your computer. From your command line:
+| Feature | Description |
+|---------|-------------|
+| 🔢 Dual Mode | Kalkulator Basic & Scientific dalam satu aplikasi |
+| 🔬 Scientific Functions | Trigonometri, logaritma, pangkat, akar, faktorial |
+| 🌍 Bilingual | English & Bahasa Indonesia |
+| 🎨 Material Design 3 | Antarmuka modern dan intuitif |
+| 🌙 Dark Mode | Tema Terang, Gelap, & mengikuti sistem |
+| 📋 Copy Results | Salin hasil ke clipboard dengan satu ketukan |
+| 🔒 100% Offline | Tidak perlu internet, tanpa tracking |
+| ✅ Fully Tested | 82 unit test berhasil |
 
+## 📱 Screenshots
+
+<p align="center">
+  <em>Coming soon...</em>
+</p>
+
+## 🚀 Installation
+
+### Prerequisites
+- Android 7.0+ (API 24+)
+- Android Studio atau Gradle
+
+### Steps
+1. Download APK dari [Releases](https://github.com/lunarcadedigital/scientific-calculator/releases)
+2. Install APK
+3. Buka aplikasi dan mulai menghitung!
+
+### Build from Source
 ```bash
-# Clone this repository
+# Clone repository
 $ git clone https://github.com/lunarcadedigital/scientific-calculator
-
-# Go into the repository
 $ cd scientific-calculator
 
 # Build debug APK
 $ ./gradlew assembleDebug
 
-# Install to connected device
+# Install ke device
 $ ./gradlew installDebug
 ```
 
-> **Note**
-> Requires Android SDK 34 and Java 17+.
+> **Note:** Membutuhkan Android SDK 34 dan Java 17+.
 
-## Download
+## 🎮 Usage
 
-You can [download](https://github.com/lunarcadedigital/scientific-calculator/releases/download/v1.0.0/ScientificCalculator_v1.0.0.apk) the latest installable version of Scientific Calculator for Android.
+| Mode | Description |
+|------|-------------|
+| 🔢 Basic | Penjumlahan, pengurangan, perkalian, pembagian, persen |
+| 🔬 Scientific | Trigonometri (sin, cos, tan), logaritma, pangkat, akar, faktorial, konstanta (π, e) |
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
-| [Kotlin](https://kotlinlang.org) | Language |
-| [Jetpack Compose](https://developer.android.com/jetpack/compose) | UI Framework |
-| [Material Design 3](https://m3.material.io) | Design System |
-| [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) | Preferences |
-| [JUnit](https://junit.org/junit5/) | Testing |
+| Kotlin | Primary language |
+| Jetpack Compose | UI framework |
+| Material Design 3 | Design system |
+| DataStore | Preferences storage |
+| JUnit | Unit testing |
 
-## Changelog
+## 📋 Changelog
 
-### v1.0.0
-- Initial release
-- Basic & Scientific modes
-- Dark/Light/System theme
-- English & Bahasa Indonesia
-- 82 unit tests
+See [CHANGELOG.md](CHANGELOG.md) for version history.
 
-## License
+## ⚖️ Legal
 
-MIT
+Aplikasi ini bersifat open source dan untuk tujuan edukasi. Tidak mengumpulkan data pengguna, tidak memerlukan izin khusus, dan berfungsi 100% offline.
 
----
+## 👨‍💻 Developer
 
-> [github.com/lunarcadedigital](https://github.com/lunarcadedigital) &nbsp;&middot;&nbsp;
-> GitHub [@lunarcadedigital](https://github.com/lunarcadedigital)
+**Lunarcade Digital**
+- 🌐 [GitHub](https://github.com/lunarcadedigital)
+- 📧 lunarcadedigital@gmail.com
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
