@@ -2,10 +2,10 @@
   <img src="assets/calculator-logo.png" alt="Scientific Calculator Logo" width="200"/>
 </p>
 
-<h1 align="center">🧮 Scientific Calculator</h1>
+<h1 align="center">🔬 Scientific Calculator</h1>
 
 <p align="center">
-  Kalkulator ilmiah canggih untuk Android — dual mode, dukungan dwibahasa, dan Material Design 3.
+  Powerful, elegant, and bilingual scientific calculator for Android — dual mode (Basic & Scientific), Material Design 3, 100% offline.
 </p>
 
 <p align="center">
@@ -25,20 +25,19 @@
 
 ## ⚠️ Disclaimer
 
-> Aplikasi ini dibuat untuk tujuan **edukasi dan pembelajaran**. Cocok untuk pelajar, insinyur, dan siapa saja yang membutuhkan alat hitung canggih dan andal.
+> Aplikasi ini dibuat untuk tujuan **edukasi dan produktivitas**. 100% offline, tanpa tracking, tanpa iklan.
 
 ## ✨ Features
 
 | Feature | Description |
 |---------|-------------|
-| 🔢 Dual Mode | Kalkulator Basic & Scientific dalam satu aplikasi |
-| 🔬 Scientific Functions | Trigonometri, logaritma, pangkat, akar, faktorial |
+| 🔢 Dual Mode | Basic & Scientific calculator in one app |
+| 🔬 Scientific Functions | Trigonometry, logarithms, powers, factorial, constants (π, e) |
 | 🌍 Bilingual | English & Bahasa Indonesia |
-| 🎨 Material Design 3 | Antarmuka modern dan intuitif |
-| 🌙 Dark Mode | Tema Terang, Gelap, & mengikuti sistem |
-| 📋 Copy Results | Salin hasil ke clipboard dengan satu ketukan |
-| 🔒 100% Offline | Tidak perlu internet, tanpa tracking |
-| ✅ Fully Tested | 82 unit test berhasil |
+| 🎨 Material Design 3 | Modern UI with Light/Dark/System themes |
+| 📋 Copy Results | One-tap copy to clipboard |
+| 🔒 100% Offline | No internet required, no tracking, no ads |
+| ✅ Fully Tested | 82 unit tests passed |
 
 ## 📱 Screenshots
 
@@ -50,34 +49,34 @@
 
 ### Prerequisites
 - Android 7.0+ (API 24+)
-- Android Studio atau Gradle
-
-### Steps
-1. Download APK dari [Releases](https://github.com/lunarcadedigital/scientific-calculator/releases)
-2. Install APK
-3. Buka aplikasi dan mulai menghitung!
+- Android Studio or Gradle
 
 ### Build from Source
 ```bash
-# Clone repository
+# Clone this repository
 $ git clone https://github.com/lunarcadedigital/scientific-calculator
+
+# Go into the repository
 $ cd scientific-calculator
 
 # Build debug APK
 $ ./gradlew assembleDebug
 
-# Install ke device
+# Install to connected device
 $ ./gradlew installDebug
 ```
 
-> **Note:** Membutuhkan Android SDK 34 dan Java 17+.
+> **Note:** Requires Android SDK 34 and Java 17+.
+
+### Download APK
+Download the latest release from [Releases](https://github.com/lunarcadedigital/scientific-calculator/releases).
 
 ## 🎮 Usage
 
 | Mode | Description |
 |------|-------------|
-| 🔢 Basic | Penjumlahan, pengurangan, perkalian, pembagian, persen |
-| 🔬 Scientific | Trigonometri (sin, cos, tan), logaritma, pangkat, akar, faktorial, konstanta (π, e) |
+| 🔢 Basic | Addition, subtraction, multiplication, division, percentages |
+| 🔬 Scientific | sin, cos, tan, log, ln, x², xⁿ, √x, n!, π, e |
 
 ## 🛠️ Tech Stack
 
@@ -91,11 +90,18 @@ $ ./gradlew installDebug
 
 ## 📋 Changelog
 
+### v1.0.0
+- Initial release
+- Basic & Scientific modes
+- Dark/Light/System theme
+- English & Bahasa Indonesia
+- 82 unit tests
+
 See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## ⚖️ Legal
 
-Aplikasi ini bersifat open source dan untuk tujuan edukasi. Tidak mengumpulkan data pengguna, tidak memerlukan izin khusus, dan berfungsi 100% offline.
+Aplikasi ini untuk tujuan edukasi. 100% offline, zero data collection.
 
 ## 👨‍💻 Developer
 
