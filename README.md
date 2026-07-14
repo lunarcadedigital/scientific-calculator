@@ -107,7 +107,7 @@ Aplikasi ini untuk tujuan edukasi. 100% offline, zero data collection.
 
 **Lunarcade Digital**
 - 🌐 [GitHub](https://github.com/lunarcadedigital)
-- 📧 lunarcadedigital@gmail.com
+
 
 ## 📄 License
 
