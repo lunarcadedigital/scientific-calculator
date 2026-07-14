@@ -99,16 +99,45 @@ Download the latest release from [Releases](https://github.com/lunarcadedigital/
 
 See [CHANGELOG.md](CHANGELOG.md) for version history.
 
-## ⚖️ Legal
+## 👥 Contributors
 
-Aplikasi ini untuk tujuan edukasi. 100% offline, zero data collection.
+| Name | Division | Role |
+|------|----------|------|
+| Dimas Purnomo | 🔬 Research | Requirement analysis & tech research |
+| Sari Wulandari | 🔬 Research | Dependency audit & technology scouting |
+| Aditya Nugraha | 🔬 Research | Competitor analysis |
+| Eko Prasetyo | 🏗️ Architect | System architecture & data flow design |
+| Dewi Sartika | 🏗️ Architect | Database schema design |
+| Bambang Lesmono | 🏗️ Architect | API specification & integration design |
+| Dani Ramdani | 🤖 Android | Kotlin/Jetpack Compose development |
+| Joko Susilo | 🤖 Android | Business logic & ViewModels |
+| Budi Santoso | 🤖 Android | Local storage & DataStore |
+| Rizky Fauzi | 🤖 Android | Background services & lifecycle |
+| Prasetyo Hadi | 🧪 QA | Quality assurance & testing |
+| Melani Putri | 🧪 QA | Test execution & verification |
+| Yuda Saputra | 🧪 QA | Bug reporting & regression testing |
+| Ratna Sari Dewi | 🧪 QA | Test documentation |
+| Rizal Fadillah | 🔧 Fixing | Android bug fixes & patches |
+| Nina Salsabila | 📣 Marketing | Content & copywriting |
+| Indah Permatasari | 📣 Marketing | Logo & app icon design |
+| Budi Hartono | 🚀 Release | CI/CD pipeline & build automation |
+| Roro Ayuningtyas | 🚀 Release | README & documentation packaging |
+| Siti Rahayu | 🚀 Release | Changelog & versioning |
+| Ahmad Fauzi | 🚀 Release | Release monitoring |
+| Slamet Riyadi | 📦 Archive | Documentation & archival |
+| Rina Marlina | 📦 Archive | Knowledge base management |
+| Wawan Setiawan | 📦 Archive | Backup & asset library |
 
-## 👨‍💻 Developer
-
-**Lunarcade Digital**
-- 🌐 [GitHub](https://github.com/lunarcadedigital)
-
+---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
+MIT License
+
+Copyright (c) 2026 Lunarcade Digital
+
+---
+
+<p align="center">
+  <sub>© 2026 Lunarcade Digital. All rights reserved.</sub>
+</p>
